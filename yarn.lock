@@ -116,9 +116,9 @@
   integrity sha512-n+L/BvrwKUn7q5O3wHGo+CJZAqfewh38+37sk+eBzv/39lM9pPgPRd4sOZRvSRzo0ukLxzyXso4WlGj2oKZ5hA==
 
 "@openai/codex@>=0":
-  version "0.22.0"
-  resolved "https://registry.yarnpkg.com/@openai/codex/-/codex-0.22.0.tgz#01e4c4f42b0c1885265a9fdd0e3d6a8feee73957"
-  integrity sha512-08Uy9SBRfZoaTVMWd/FBrr94lfbFDZKXws7iCL+QVi9yxwYOMP2UiFKdjmeBhGioBaa9PeVckFtXWfaotbF2YQ==
+  version "0.39.0"
+  resolved "https://registry.yarnpkg.com/@openai/codex/-/codex-0.39.0.tgz#01d0bfd3d4dad07857a46999052da60f6a5bbf62"
+  integrity sha512-UEcswDFZ9dwmMWuZlECff3CDTj1lEVO3Vm3mqqJrY7azLMIa2PLmC2+qHkF94RIQBD8/tkgAmKxiSnUQMr8Lgw==
   dependencies:
     "@vscode/ripgrep" "^1.15.14"
 
