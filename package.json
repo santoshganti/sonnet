@@ -10,7 +10,7 @@
     "yarn": ">=1.22.22"
   },
   "dependencies": {
-    "@anthropic-ai/claude-code": ">=1",
+    "@anthropic-ai/claude-code": ">=2",
     "@imoverlord/yamlfmt": "*",
     "@openai/codex": ">=0",
     "@prettier/plugin-xml": ">=3",
